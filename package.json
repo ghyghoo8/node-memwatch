@@ -2,13 +2,13 @@
   "name": "@cf/node-memwatch",
   "description": "Forked from @airbnb/node-memwatch.   Support  Node v12 ",
   "version": "1.0.0",
-  "author": "Lloyd Hilaiel (http://lloyd.io)",
+  "author": "ghy",
   "engines": {
     "node": ">= 8.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/node-memwatch.git"
+    "url": "https://github.com/ghyghoo8/node-memwatch.git"
   },
   "main": "include.js",
   "licenses": [
@@ -17,7 +17,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/airbnb/node-memwatch/issues"
+    "url": "https://github.com/ghyghoo8/node-memwatch/issues"
   },
   "scripts": {
     "install": "node-gyp rebuild",
